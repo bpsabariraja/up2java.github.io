@@ -43,8 +43,8 @@ url: "http://localhost:3000" # the base hostname & protocol for your site
 
 # User settings
 username: Lorem Ipsum
-user_description: Anon Developer at Lorem Ipsum Dolor
-user_title: Anon Developer
+user_description: Up2Java at Lorem Ipsum Dolor
+user_title: Up2Java
 email: anon@anon.com
 twitter_username: lorem_ipsum
 github_username:  lorem_ipsum
